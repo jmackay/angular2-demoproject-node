@@ -1,0 +1,10 @@
+/.idea
+/node_modules
+
+/app/**/*.js
+/app/**/*.js.map
+/app/**/*.d.ts
+
+/lib/*.js
+/lib/*.js.map
+/lib/*.d.ts
